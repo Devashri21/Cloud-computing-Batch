@@ -370,3 +370,18 @@ Choose End Lab at the top of this page, and then select Yes to confirm that you 
 A panel indicates that You may close this message box now...
 
 Select the X in the top-right corner to close the panel.
+
+## Output
+
+<img width="1919" height="966" alt="lab-2-op-1" src="https://github.com/user-attachments/assets/41e72c5b-c329-4523-bfb8-b15899e843f1" />
+
+<img width="1919" height="968" alt="lab-2-op-2" src="https://github.com/user-attachments/assets/3eaa0b7e-22b8-403e-aed0-6589157f9983" />
+
+<img width="1912" height="968" alt="lab-2-op-3" src="https://github.com/user-attachments/assets/d135f8d2-f13d-4f98-abe4-53bb747b0a2b" />
+
+<img width="1919" height="962" alt="lab-2-op-4" src="https://github.com/user-attachments/assets/427f8484-50fa-4d5a-ad1c-42ce24a7f46a" />
+
+<img width="1919" height="971" alt="lab-2-op-5" src="https://github.com/user-attachments/assets/23b23ef7-8587-459d-8014-0db81cbe4843" />
+
+<img width="1919" height="965" alt="lab-2-op-6" src="https://github.com/user-attachments/assets/81849744-3a00-49fc-a1b1-5337efbef489" />
+
