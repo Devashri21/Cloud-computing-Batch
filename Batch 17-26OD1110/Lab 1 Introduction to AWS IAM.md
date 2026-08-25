@@ -396,6 +396,17 @@ A panel indicates that *You may close this message box now...*
 
 ---
 
+## Output
+
+<img width="1919" height="966" alt="lab-1-op-1" src="https://github.com/user-attachments/assets/a08cd941-bea8-4c89-8d61-418f9d574d47" />
+
+<img width="1919" height="899" alt="lab-1-op-2" src="https://github.com/user-attachments/assets/a4f072db-7576-4010-8406-64af67db1604" />
+
+<img width="1918" height="965" alt="lab-1-op-3" src="https://github.com/user-attachments/assets/bd13c291-0302-490c-ba3b-ed016c7d0c77" />
+
+<img width="1909" height="962" alt="lab-1-op-4" src="https://github.com/user-attachments/assets/383944e5-77fe-4f20-934c-dcdffd178896" />
+
+
 ## Conclusion
 
 Congratulations! You now have successfully:
