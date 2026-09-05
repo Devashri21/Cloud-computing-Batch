@@ -1,4 +1,4 @@
-Lab 5: Build Your DB Server and Interact With Your DB Using an App
+Lab-5: Build Your DB Server and Interact With Your DB Using an App
 Lab Overview and objectives
 This lab is designed to reinforce the concept of leveraging an AWS-managed database instance for solving relational database needs.
 
