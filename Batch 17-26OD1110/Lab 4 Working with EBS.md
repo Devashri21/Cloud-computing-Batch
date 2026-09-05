@@ -1,4 +1,4 @@
-Lab 4: Working with EBS
+Lab-4: Working with EBS
 Lab Overview
 https://media/image.png
 
